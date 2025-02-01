@@ -1,0 +1,1 @@
+I know the assignment said to use the md5 hash generator. While trying to complete this assignment, I attempted to generate 3 separate Hashes with the generator, and when running each through Postman, they all came back invalid. I hope doing the Hash this way is acceptable. 
